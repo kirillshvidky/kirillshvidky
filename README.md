@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kirillshvidky
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some python projects
+- 📫 You can reach me on my email, kirsv2505.@gmail.com
